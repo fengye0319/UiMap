@@ -12,15 +12,21 @@
 
 **(目前仅支持Chrome)**
 
-* 下载
+* 应用商城安装**（需要翻墙）**
 
-> https://github.com/fengye0319/UiMap/archive/1.0.zip
+> https://chrome.google.com/webstore/category/extensions
+
+搜索 `Ui Map`，选择 `添加至 Chrome` 即可。
+
+* 下载安装
+
+> 
 
 或者点击：
 
 ![下载1](img/download_1.png)
 
-* 解压下载 `UiMap-*.zip` 文件包
+* 解压下载的 `UiMap-*.zip` 文件包
 
 * 打开 `Chrome` 浏览器
 
