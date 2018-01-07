@@ -14,9 +14,11 @@
 
 * 应用商城安装**（需要翻墙）**
 
-> https://chrome.google.com/webstore/category/extensions
+> https://chrome.google.com/webstore/detail/ui-map/ncgfhhlapbkaajoiicoajaiafpaamgff
 
 搜索 `Ui Map`，选择 `添加至 Chrome` 即可。
+
+![UiMap](img/UiMap.png)
 
 * 下载安装
 
