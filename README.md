@@ -20,7 +20,7 @@
 
 * 下载安装
 
-> 
+> https://github.com/fengye0319/UiMap/archive/1.0.zip
 
 或者点击：
 
